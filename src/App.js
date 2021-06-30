@@ -4,7 +4,7 @@ import Home from "./components/pages/Home";
 
 function App() {
   return (
-    <div className="App">
+    <div className="body">
       <h1>Task from PT. Bintang Kecil</h1>
       <Home></Home>
     </div>
